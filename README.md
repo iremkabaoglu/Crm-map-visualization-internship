@@ -10,11 +10,11 @@ The system was built using **PHP (CodeIgniter)**, **AJAX**, and **MySQL**.
 
 ##  Features
 
-- 📌 Visualizes customer service requests on an interactive map
-- 💬 Data is fetched from a CRM system and plotted as location markers
-- 🛠️ Backend powered by CodeIgniter framework
-- 📅 Filtering by date range
-- 📦 Secure access to anonymized data only (demo version)
+- Visualizes customer service requests on an interactive map
+- Data is fetched from a CRM system and plotted as location markers
+- Backend powered by CodeIgniter framework
+- Filtering by date range
+- Secure access to anonymized data only (demo version)
 
 ---
 
@@ -22,7 +22,7 @@ The system was built using **PHP (CodeIgniter)**, **AJAX**, and **MySQL**.
 
 | Modal View | Map View | Database Structure |
 |------------|----------|---------------------|
-| ![Modal](screenshots/modal.png) | ![Map](screenshots/harita.png) | ![DB](screenshots/veritabano.png) |
+| ![Modal](screenshots/page.png) | ![Map](screenshots/map.png) | ![DB](screenshots/Database.png) |
 
 ---
 
@@ -42,16 +42,16 @@ crm-map-visualization/
 ├── map-demo.php
 ├── README.md
 └── screenshots/
-    ├── modal.png
-    ├── harita.png
-    └── veritabano.png
+    ├── page.png
+    ├── map.png
+    └── Database.png
 ```
 
 ---
 
 ##  Notes
 
-> This version contains **mocked** or **anonymized** data for demonstration purposes.  
+> This version contains mocke or anonymized data for demonstration purposes.  
 > Original code was part of a real-world project during my internship and cannot include sensitive client data.
 
 ---
